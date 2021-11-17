@@ -1,0 +1,4 @@
+baseURL = "http://kazanv.github.com/"
+languageCode = "en-us"
+title = "Kazan's Hut"
+theme = "coder"
